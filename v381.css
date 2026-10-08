@@ -1,0 +1,4 @@
+/* Aether Clash v381 — combat command HUD release marker.
+   Combat HUD geometry is rendered on the game canvas so it stays synchronized with camera scale.
+   This versioned layer provides a stable token for future DOM overlays without changing gameplay. */
+:root { --aether-combat-hud-version: "381"; }

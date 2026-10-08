@@ -1,0 +1,11 @@
+/* Aether Clash v3.9.3 — Jungle & Objective Contest */
+.jungle-contest{letter-spacing:.04em}
+
+/* release marker 393 */
+
+/* v3.9.4 — Minion Waves / XP / Gold / Hero Levels */
+.wave-economy-badge{font-weight:900;letter-spacing:.04em}
+.minion-xp-pop{filter:drop-shadow(0 0 5px rgba(100,190,255,.35))}
+
+/* v3.9.5 item build paths */
+.shop-components{margin:10px 0;padding:10px;border:1px solid #315461;background:#08151be8;border-radius:12px}.shop-components>b{display:block;margin-bottom:7px;font-size:11px;letter-spacing:.08em}.component-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.component-grid button{min-width:0;text-align:left;padding:8px;border:1px solid #294750;background:#0c2028;color:#d9eef2;border-radius:9px}.component-grid button strong,.component-grid button small{display:block}.component-grid button small{margin-top:3px;opacity:.72;font-size:10px}.component-grid button:active{transform:translateY(1px)}
